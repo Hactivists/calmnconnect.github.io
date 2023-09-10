@@ -22,4 +22,4 @@ This project was made during the event HackOdisha 3.0 (2023). The main objective
 1. [Subhashree Patra](https://github.com/SubhashreePatra33/)
 2. [Priyansu Nagchowdhary](https://github.com/PriyansuNagC/)
 3. [Aryaman Patra](https://github.com/AryamanPatra/)
-4. [Bipasha Mishra]
+4. Bipasha Mishra
